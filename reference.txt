@@ -1,0 +1,6 @@
+Pagination in Vanilla JavaScript. (2019, November 25). [Video]. YouTube.
+ https://www.youtube.com/watch?v=IqYiVHrO2U8&feature=youtu.be
+
+
+ CSS Pagination Examples. (n.d.). 
+ W3School. https://www.w3schools.com/css/css3_pagination.asp
